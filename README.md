@@ -24,11 +24,10 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
-##run in android Add Android Platform
+## run in android Add Android Platform
 npx cap add android
-
-🔟 Copy Web Build to Android
+## Copy Web Build to Android
 npx cap copy
 
-1️⃣1️⃣ Open in Android Studio
+## Open in Android Studio
 npx cap open android
